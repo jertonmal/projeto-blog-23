@@ -1,0 +1,21 @@
+{
+    "workbench.startupEditor": "none",
+    "window.zoomLevel": 1,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.executorMap": {
+        "python": "cls ; python -u",
+    },
+    "code-runner.ignoreSelection": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "python.defaultInterpreterPath": "python",
+    "editor.fontSize": 16,
+    "workbench.colorTheme": "OM Theme (Default Dracula Italic)",
+    "explorer.compactFolders": false,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+}
